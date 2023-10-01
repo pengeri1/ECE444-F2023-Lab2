@@ -1,1 +1,6 @@
-# ECE444-F2023-Lab2
+# Eric Peng Lab 1
+
+This repo a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+
+## Activity 1
+![Activity 1](Lab2Activity1.png)
